@@ -11,5 +11,5 @@ end
 
 def reduce(array)
   #Reduce returns a value
-  
+
 end
