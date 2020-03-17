@@ -11,5 +11,8 @@ end
 
 def reduce(array, sv=nil)
   #Reduce returns a value
+  if sv
+    num1 = sv
+    i = 0
 
 end
